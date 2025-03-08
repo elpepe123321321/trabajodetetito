@@ -47,12 +47,6 @@
     },
     "done": true
   },
-  "create:root": {
-    "criteria": {
-      "0": "2025-03-07 09:12:02 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-03-07 09:35:53 +0000"
@@ -227,73 +221,7 @@
     },
     "done": true
   },
-  "createbigcannons:recipes/misc/wrought_iron_cannon_end": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/cannon_carriage": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/wrought_iron_cannon_chamber": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/powder_charge": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/log_cannon_end": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/machine_gun_round": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/gunpowder_pinch": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/empty_powder_charge": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/log_cannon_chamber": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/cannon_mount": {
     "criteria": {
       "has_gunpowder": "2025-03-08 00:42:34 +0000"
     },
@@ -302,18 +230,6 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end_mirrored": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/pair_of_cannon_wheels": {
-    "criteria": {
-      "has_gunpowder": "2025-03-08 00:42:34 +0000"
     },
     "done": true
   },
@@ -395,12 +311,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/acacia_window": {
-    "criteria": {
-      "has_ingredient": "2025-03-08 00:44:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-03-08 00:44:26 +0000"
@@ -458,6 +368,48 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-03-08 00:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-08 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-08 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-08 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-08 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-08 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-03-08 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-08 01:52:12 +0000"
     },
     "done": true
   },
